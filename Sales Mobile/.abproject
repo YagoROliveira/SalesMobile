@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Sales Mobile",
+  "ProjectGuid": "3d9d95b6-02fb-41be-a5a4-a98ac3ec7b1c",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.SalesMobile",
+  "DisplayName": "Sales Mobile",
+  "Author": "",
+  "Description": "Sales Mobile",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{be8fe703-aadd-4191-b449-2c6a33fbd879}",
+  "WP8ProductID": "{627f1b0d-878e-4df7-9c59-3524e859cc45}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.SalesMobile",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
